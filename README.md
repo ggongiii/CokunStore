@@ -19,32 +19,32 @@
 [SNS기능](#SNS기능)   
 [자유,Q&A게시판](#자유,Q&A게시판)   
 [관리자페이지](#관리자페이지)   
-[OpenAPI](#OpenAPI)   
+[OpenAPI](#OpenAPI)<br/> <br/> <br/> <br/> 
 
 
 ## 일정
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/66e2483e-eaba-4d6b-b341-49e3704895b3)
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/66e2483e-eaba-4d6b-b341-49e3704895b3)<br/> <br/>
 ## 사용기술
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/24774bfc-9942-4c61-84a4-1f5052167824)
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/24774bfc-9942-4c61-84a4-1f5052167824)<br/> <br/>
 ## 데이터베이스
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/cf5d2952-da19-45e4-8a56-96dc40d85207)
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/cf5d2952-da19-45e4-8a56-96dc40d85207)<br/> <br/>
 ## 로그인&회원가입
-![회원가입및로그인](https://github.com/ggongiii/CokunStore/assets/102150774/ca74c8bb-ae31-4e60-996b-50810727fba4)
+![회원가입및로그인](https://github.com/ggongiii/CokunStore/assets/102150774/ca74c8bb-ae31-4e60-996b-50810727fba4)<br/> <br/>
 ## 메인페이지
-![메인페이지및 카테고리페이지](https://github.com/ggongiii/CokunStore/assets/102150774/0d68d152-aa46-49ce-9422-e2d98196db2f)
+![메인페이지및 카테고리페이지](https://github.com/ggongiii/CokunStore/assets/102150774/0d68d152-aa46-49ce-9422-e2d98196db2f)<br/> <br/>
 ## 상세페이지
-![상세페이지](https://github.com/ggongiii/CokunStore/assets/102150774/77450a86-7fe4-4b1e-a899-14fd357dee41)
+![상세페이지](https://github.com/ggongiii/CokunStore/assets/102150774/77450a86-7fe4-4b1e-a899-14fd357dee41)<br/> <br/>
 ## 결제&장바구니
-![장바구니 주문](https://github.com/ggongiii/CokunStore/assets/102150774/a4392be2-6f01-4add-a318-98bfddf54651)
+![장바구니 주문](https://github.com/ggongiii/CokunStore/assets/102150774/a4392be2-6f01-4add-a318-98bfddf54651)<br/> <br/>
 ## 마이페이지
-![마이페이지](https://github.com/ggongiii/CokunStore/assets/102150774/474bb82a-f5e6-4e33-b4cd-2e3954059210)
+![마이페이지](https://github.com/ggongiii/CokunStore/assets/102150774/474bb82a-f5e6-4e33-b4cd-2e3954059210)<br/> <br/>
 ## SNS기능
-![SNS기능](https://github.com/ggongiii/CokunStore/assets/102150774/c027419a-68b5-48b7-9b2e-7352f78dba70)
+![SNS기능](https://github.com/ggongiii/CokunStore/assets/102150774/c027419a-68b5-48b7-9b2e-7352f78dba70)<br/> <br/>
 ## 자유,Q&A게시판
-![자유 QnA게시판](https://github.com/ggongiii/CokunStore/assets/102150774/049f4607-bf94-4811-b252-14d01f08771a)
+![자유 QnA게시판](https://github.com/ggongiii/CokunStore/assets/102150774/049f4607-bf94-4811-b252-14d01f08771a)<br/> <br/>
 ## 관리자페이지
-![관리자페이지](https://github.com/ggongiii/CokunStore/assets/102150774/2fecd885-8e54-43f1-bb77-23d5171f5ab0)
+![관리자페이지](https://github.com/ggongiii/CokunStore/assets/102150774/2fecd885-8e54-43f1-bb77-23d5171f5ab0)<br/> <br/>
 ## OpenAPI
-![오픈API](https://github.com/ggongiii/CokunStore/assets/102150774/43a65b03-7281-49d3-914f-88214db9137f)
+![오픈API](https://github.com/ggongiii/CokunStore/assets/102150774/43a65b03-7281-49d3-914f-88214db9137f)<br/> <br/>
 
 
