@@ -26,9 +26,9 @@
 ![SNS기능](https://github.com/ggongiii/CokunStore/assets/102150774/c027419a-68b5-48b7-9b2e-7352f78dba70)
 ## 자유,Q&A게시판
 ![자유 QnA게시판](https://github.com/ggongiii/CokunStore/assets/102150774/049f4607-bf94-4811-b252-14d01f08771a)
-##관리자페이지
+## 관리자페이지
 ![관리자페이지](https://github.com/ggongiii/CokunStore/assets/102150774/2fecd885-8e54-43f1-bb77-23d5171f5ab0)
-##OpenAPI
+## OpenAPI
 ![오픈API](https://github.com/ggongiii/CokunStore/assets/102150774/43a65b03-7281-49d3-914f-88214db9137f)
 
 
