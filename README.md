@@ -1,6 +1,6 @@
 ## 📕 소개
 ### SNS와 큐레이팅서비스를 포함한 책 판매사이트
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/a53a8c2d-00dd-4f98-bc85-577cacf09ee6)   
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/a53a8c2d-00dd-4f98-bc85-577cacf09ee6)                         
 
 
 ## 😄개요
