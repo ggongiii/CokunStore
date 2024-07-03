@@ -1,3 +1,12 @@
+## 소개
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/a53a8c2d-00dd-4f98-bc85-577cacf09ee6)
+
+### SNS와 큐레이팅서비스를 포함한 책 판매사이트
+## 개요
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/12a835c2-75c8-425a-b53e-133bcb0ab01e)
+
+
+
 ## 목차
 
 [로그인&회원가입](#로그인&회원가입)   
