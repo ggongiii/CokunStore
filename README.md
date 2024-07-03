@@ -6,7 +6,7 @@
 ## 개요
 ### 책의 흥미를 어떻게 이끌어 낼수있을까 고민하여 대중적인 SNS와 유튜브,상품을 모두 합친 책 판매사이트
 ![image](https://github.com/ggongiii/CokunStore/assets/102150774/12a835c2-75c8-425a-b53e-133bcb0ab01e)
-
+                             
 
 
 
