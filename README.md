@@ -1,7 +1,19 @@
+## 소개
+### SNS와 큐레이팅서비스를 포함한 책 판매사이트
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/a53a8c2d-00dd-4f98-bc85-577cacf09ee6)
+
+
+## 개요
+### 책의 흥미를 어떻게 이끌어 낼수있을까 고민하여 대중적인 SNS와 유튜브,상품을 모두 합친 책 판매사이트
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/12a835c2-75c8-425a-b53e-133bcb0ab01e)
+
+
+
+
+
+
 
 ## 목차
-
-[소개&개요](#소개)    
 [로그인&회원가입](#로그인&회원가입)   
 [메인페이지](#메인페이지)   
 [상세페이지](#상세페이지)   
@@ -14,14 +26,6 @@
 
 
 
-## 소개
-### SNS와 큐레이팅서비스를 포함한 책 판매사이트
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/a53a8c2d-00dd-4f98-bc85-577cacf09ee6)
-
-
-## 개요
-### 책의 흥미를 어떻게 이끌어 낼수있을까 고민하여 대중적인 SNS와 유튜브,상품을 모두 합친 책 판매사이트
-![image](https://github.com/ggongiii/CokunStore/assets/102150774/12a835c2-75c8-425a-b53e-133bcb0ab01e)
 
 
 
