@@ -10,10 +10,12 @@
 
 
 
+## 프로젝트목차
+일정(#일정)   
+사용기술(#사용기술)
+데이터베이스(#데이터베이스)
 
-
-
-## 목차
+## 기능목차
 [로그인&회원가입](#로그인&회원가입)   
 [메인페이지](#메인페이지)   
 [상세페이지](#상세페이지)   
@@ -25,13 +27,12 @@
 [OpenAPI](#OpenAPI)   
 
 
-
-
-
-
-
-
-
+## 일정
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/66e2483e-eaba-4d6b-b341-49e3704895b3)
+## 사용기술
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/24774bfc-9942-4c61-84a4-1f5052167824)
+## 데이터베이스
+![image](https://github.com/ggongiii/CokunStore/assets/102150774/cf5d2952-da19-45e4-8a56-96dc40d85207)
 ## 로그인&회원가입
 ![회원가입및로그인](https://github.com/ggongiii/CokunStore/assets/102150774/ca74c8bb-ae31-4e60-996b-50810727fba4)
 ## 메인페이지
