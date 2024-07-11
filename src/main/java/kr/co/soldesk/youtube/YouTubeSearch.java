@@ -17,8 +17,8 @@ import kr.co.soldesk.beans.YouTubeDto;
 @Component
 public class YouTubeSearch {
  
-    private static final String APPLICATION_NAME = "youtubeAPI";
-    private static final String API_KEY = "AIzaSyDi-7PI8ESkhy6VywZFc_O2C4B1NjQu63o";
+    private static final String APPLICATION_NAME = 
+    private static final String API_KEY = 
 
     public List<YouTubeDto> searchVideos(String query) {
         List<YouTubeDto> videos = new ArrayList<>();
